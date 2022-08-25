@@ -1,0 +1,12 @@
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Application.deps.json
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Application.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Application.pdb
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.csproj.AssemblyReference.cache
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.AssemblyInfoInputs.cache
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.AssemblyInfo.cs
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/refint/CleanArchMvc.Application.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.pdb
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/ref/CleanArchMvc.Application.dll
