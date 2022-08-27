@@ -1,7 +1,11 @@
+using CleanArchMvc.Infra.Ioc;
+using Microsoft.AspNetCore.Routing.Matching;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddInfraStructure(builder.Configuration);
 
 var app = builder.Build();
 

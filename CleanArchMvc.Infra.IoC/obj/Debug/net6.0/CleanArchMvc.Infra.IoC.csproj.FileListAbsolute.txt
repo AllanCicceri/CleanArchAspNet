@@ -17,3 +17,5 @@
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/bin/Debug/net6.0/CleanArchMvc.Application.pdb
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/bin/Debug/net6.0/CleanArchMvc.Infra.Data.pdb
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/obj/Debug/net6.0/CleanArchMvc.Infra.IoC.csproj.CopyComplete
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/bin/Debug/net6.0/CleanArchMvc.Infra.IoC.runtimeconfig.json
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/obj/Debug/net6.0/CleanArchMvc.Infra.IoC.genruntimeconfig.cache

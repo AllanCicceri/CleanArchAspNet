@@ -33,3 +33,15 @@
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/CleanArchMvc.Domain.pdb
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/CleanArchMvc.Infra.Data.pdb
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/obj/Debug/net6.0/CleanArchMvc.WebUI.csproj.CopyComplete
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Humanizer.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/MySqlConnector.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
