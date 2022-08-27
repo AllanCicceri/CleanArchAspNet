@@ -1,8 +1,30 @@
 {
   "version": 2,
-  "dgSpecHash": "EtEM6nKjP/2ArBvClC6qj+u8u8J6GUoLvmJ8v8uKWUoPbrZDFjjU7MXpkQtXqu9+ZXu0scFZzQWojILiK4csNg==",
+  "dgSpecHash": "r85HucMIKapFOu2r7iyr+4p57hHZYq7vDBq2WXTkAmzMWtkJbN5L3uujxwXU//3S6I5Rme+nsCW+0aAjCpUUkg==",
   "success": true,
   "projectFilePath": "/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/allan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.entityframeworkcore/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.7.0.0-preview.7.22376.2.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.abstractions.7.0.0-preview.7.22376.2.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.analyzers.7.0.0-preview.7.22376.2.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.entityframeworkcore.design/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.design.7.0.0-preview.7.22376.2.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.relational.7.0.0-preview.7.22376.2.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.entityframeworkcore.tools/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.tools.7.0.0-preview.7.22376.2.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0-preview.7.22375.6/microsoft.extensions.caching.abstractions.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.extensions.caching.memory/7.0.0-preview.7.22375.6/microsoft.extensions.caching.memory.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0-preview.7.22375.6/microsoft.extensions.configuration.abstractions.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0-preview.7.22375.6/microsoft.extensions.dependencyinjection.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0-preview.7.22375.6/microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.extensions.logging/7.0.0-preview.7.22375.6/microsoft.extensions.logging.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0-preview.7.22375.6/microsoft.extensions.logging.abstractions.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.extensions.options/7.0.0-preview.7.22375.6/microsoft.extensions.options.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.extensions.primitives/7.0.0-preview.7.22375.6/microsoft.extensions.primitives.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/home/allan/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/home/allan/.nuget/packages/mysqlconnector/2.1.2/mysqlconnector.2.1.2.nupkg.sha512",
+    "/home/allan/.nuget/packages/pomelo.entityframeworkcore.mysql/6.0.2/pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
+    "/home/allan/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
+    "/home/allan/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

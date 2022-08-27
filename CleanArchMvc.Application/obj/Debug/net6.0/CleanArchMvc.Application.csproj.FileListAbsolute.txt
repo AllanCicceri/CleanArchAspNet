@@ -10,3 +10,6 @@
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/refint/CleanArchMvc.Application.dll
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.pdb
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/ref/CleanArchMvc.Application.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Domain.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Domain.pdb
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.csproj.CopyComplete

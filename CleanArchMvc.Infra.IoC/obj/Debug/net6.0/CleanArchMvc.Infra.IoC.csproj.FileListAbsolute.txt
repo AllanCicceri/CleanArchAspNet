@@ -10,3 +10,10 @@
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/obj/Debug/net6.0/refint/CleanArchMvc.Infra.IoC.dll
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/obj/Debug/net6.0/CleanArchMvc.Infra.IoC.pdb
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/obj/Debug/net6.0/ref/CleanArchMvc.Infra.IoC.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/bin/Debug/net6.0/CleanArchMvc.Application.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/bin/Debug/net6.0/CleanArchMvc.Domain.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/bin/Debug/net6.0/CleanArchMvc.Infra.Data.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/bin/Debug/net6.0/CleanArchMvc.Domain.pdb
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/bin/Debug/net6.0/CleanArchMvc.Application.pdb
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/bin/Debug/net6.0/CleanArchMvc.Infra.Data.pdb
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/obj/Debug/net6.0/CleanArchMvc.Infra.IoC.csproj.CopyComplete

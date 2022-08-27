@@ -10,3 +10,15 @@
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/refint/CleanArchMvc.Domain.dll
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/CleanArchMvc.Domain.pdb
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/ref/CleanArchMvc.Domain.dll
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/bin/Debug/net6.0/CleanArchMvc.Domain.deps.json
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/bin/Debug/net6.0/CleanArchMvc.Domain.dll
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/bin/Debug/net6.0/CleanArchMvc.Domain.pdb
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/CleanArchMvc.Domain.csproj.AssemblyReference.cache
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/CleanArchMvc.Domain.AssemblyInfoInputs.cache
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/CleanArchMvc.Domain.AssemblyInfo.cs
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/CleanArchMvc.Domain.dll
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/refint/CleanArchMvc.Domain.dll
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/CleanArchMvc.Domain.pdb
+/home/allan/Documents/code/dotnet/CleanArch/curso_cleanarchaspnet/CleanArchMvc.Domain/obj/Debug/net6.0/ref/CleanArchMvc.Domain.dll
