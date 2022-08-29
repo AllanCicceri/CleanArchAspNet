@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dosJoCXaMJLT6Ns4QezU8DogeFteqwKhhl+JiEym0/Q15j5uyU7ScebIio66uwvA88WyLhT1qZuSvT3jFKc27g==",
+  "dgSpecHash": "fUoG0pJ+YdyYeqIZztlJ8j3vcfV8d2MAE/OH8O9uVzdN0pWP+5dgyRCVDF2uad/aN7JkaMio04+vpKiu8PV27g==",
   "success": true,
   "projectFilePath": "/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/CleanArchMvc.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/allan/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
