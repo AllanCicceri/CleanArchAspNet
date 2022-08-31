@@ -45,3 +45,5 @@
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/MySqlConnector.dll
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
 /home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/AutoMapper.dll
+/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vQjaFu/eQYlZI71CmoXcc7AFPe9SXy20AMeZIhaphdpC1Iju05AzMTph4a9hchqxxGZVRzWaDu7Tz3TcnEwKeg==",
+  "dgSpecHash": "qQUT6clatv8KO3DzLMEOQHeI3HfsEbEdwhy+MOseluY0W0kvV+lZ2RTM/K6RYGBdoAg2de+aO/WvNJJIr+oqjw==",
   "success": true,
   "projectFilePath": "/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
+    "/home/allan/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/home/allan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/home/allan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/allan/.nuget/packages/microsoft.entityframeworkcore/6.0.8/microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "/home/allan/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.8/microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",
     "/home/allan/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.8/microsoft.entityframeworkcore.analyzers.6.0.8.nupkg.sha512",
