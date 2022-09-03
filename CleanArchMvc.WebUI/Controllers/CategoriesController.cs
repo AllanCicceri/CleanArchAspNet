@@ -14,7 +14,7 @@ public class CategoriesController:Controller
     [HttpGet]
     public async Task<IActionResult> Index()
     {
-        var categories = await _categoryService.getCategories();
+        var categories = await _categoryService.GetCategoriesAsync();
         return View(categories);        
     }
 }

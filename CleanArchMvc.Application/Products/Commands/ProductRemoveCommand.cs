@@ -1,14 +1,14 @@
-
-using CleanArchMvc.Domain.Entities;
+﻿using CleanArchMvc.Domain.Entities;
 using MediatR;
 
-namespace CleanArchMvc.Application.Products.Commands;
-
-public class ProductRemoveCommand : IRequest<Product>
+namespace CleanArchMvc.Application.Products.Commands
 {
-    public int Id {get;set;}
-    public ProductRemoveCommand(int id)
+    public class ProductRemoveCommand : IRequest<Product>
     {
-        Id = id;
+        public int Id { get; set; }
+        public ProductRemoveCommand(int id)
+        {
+            Id = id;
+        }
     }
 }
