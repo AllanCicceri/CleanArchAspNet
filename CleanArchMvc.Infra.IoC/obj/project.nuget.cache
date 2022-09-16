@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EQZXMJekhCQD5e4zSiV5hQExrlfw2F3HG4UKUDuZcUQJV+PKrXiPknQ1PG5gSRu9fLDzFQ8yTNDNG+PRlnAldA==",
+  "dgSpecHash": "uqBw5Ces0OM3SIHCHGis5ApsWmRPJZvXV1hCcXdEW5GbdebyIXJ8AGVWBYAz7914f8RlV7EMxmPmlG14kU0k5A==",
   "success": true,
   "projectFilePath": "/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [

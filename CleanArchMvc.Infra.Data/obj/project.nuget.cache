@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+5ig2VWy/LmEDnLz7dOyW9PBVC28Cwh+wGO4RCr3lzA4KflbNO5PXIh7xNEYnGGwyyHVMCHJjjuuLaqT+OY5lw==",
+  "dgSpecHash": "CQMWvajmwC7/wo42xmiZbOpk08POpewdXnixJPHjaaedkeOLHL2c7NCIxk8bjbbixlZ/um1agX2X6ziK0x9Ksw==",
   "success": true,
   "projectFilePath": "/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q/fOeT5zZXdM21vbjmSDp/C0F4IJUbf1xQIJtn6pvq/Dg+D7Fu1zJ9N5+WWxPJQVOAgvYBXsjXsaRVByGfR9ZQ==",
+  "dgSpecHash": "cSiBqY1l4rPSci1g5WTyjIll2SgPNXjVenfKsoUjV58b2GDXZEdQhR8POyJ4Nj3ngFLlrx+8ISO5xlW9mKVCUQ==",
   "success": true,
   "projectFilePath": "/home/allan/Documents/code/dotnet/curso_cleanarchaspnet/CleanArchMvc.Application/CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
