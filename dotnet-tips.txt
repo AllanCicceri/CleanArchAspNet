@@ -1,0 +1,3 @@
+-- Two projects --
+dotnet ef --startup-project ../CleanArchMvc.WebUI migrations add AddIdentityTables
+dotnet ef --startup-project ../CleanArchMvc.WebUI/ database update
