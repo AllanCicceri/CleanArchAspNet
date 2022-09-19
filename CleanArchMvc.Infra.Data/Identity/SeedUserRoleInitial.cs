@@ -15,7 +15,7 @@ namespace CleanArchMvc.Infra.Data.Identity
             _roleManager = roleManager;
         }
 
-        public void SeedRoles()
+        public void SeedUsers()
         {
             if(_userManager.FindByEmailAsync("usuario@localhost").Result == null)
             {
@@ -56,7 +56,7 @@ namespace CleanArchMvc.Infra.Data.Identity
             }
         }
 
-        public void SeedUsers()
+        public void SeedRoles()
         {
             if(!_roleManager.RoleExistsAsync("User").Result)
             {
